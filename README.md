@@ -1,1 +1,15 @@
 # RedLine
+
+A fully native Android engine simulation library, built without WebView, delivering an extensive collection of 244 accurately recreated real-world engines spanning virtually every era, configuration, and engineering philosophy. Explore everything from miniature 2-stroke engines, compact motorcycle powerplants and classic inline-four configurations to enormous V12s, the legendary Devel Sixteen V16, and the historic DB 603 aircraft engine.
+
+Every engine features a procedurally generated, highly detailed 3D model with realistic geometry, component placement, materials, and mechanical construction. Go far beyond simply viewing an engine: completely explore its internal architecture using interactive X-ray visualization, fully removable or transparent cutaway sections, animated airflow and exhaust-flow simulations, thermal visualization, and detailed component inspection. Tap virtually any visible component to identify it, inspect its construction, understand its purpose, and explore how it interacts with the rest of the engine.
+
+Experience engines through multiple specialized visualization modes, including realistic real-time rendering, exploded mechanical views, internal combustion visualization, animated intake and exhaust systems, cooling-flow simulations, and temperature distribution across individual engine components. A dedicated ray-traced photography mode allows you to capture engines with realistic reflections, lighting, shadows, metallic surfaces, and cinematic presentation.
+
+Take control in the dedicated Rev Lab, where every engine can be started, revved, and pushed towards its mechanical limits. Experience realistic throttle response, RPM behavior, turbocharger spool-up, turbo lag, boost pressure, rev limiters, ignition behavior, and engine-specific characteristics. Watch the engine react to throttle inputs while monitoring live telemetry, including RPM, torque, horsepower, boost, temperatures, and other relevant operating parameters.
+
+A fully integrated dynamometer allows you to conduct performance tests, generate horsepower and torque curves, compare engine configurations, and analyze power delivery throughout the entire RPM range. Experiment with extensive tuning possibilities, including turbocharger configurations, supercharger systems, intake and exhaust modifications, ECU parameters, rev limits, fueling, and other engine-specific adjustments.
+
+The simulation also includes dedicated vehicle performance calculations, featuring realistic power-to-weight relationships, gearing, aerodynamic drag, rolling resistance, traction limitations, and top-speed calculations. Test different engine configurations in acceleration and drag simulations, compare theoretical maximum speeds, and discover how changes in horsepower, torque, gearing, and vehicle weight influence overall performance.
+
+Designed as an interactive automotive engineering laboratory rather than a conventional engine gallery, the application combines detailed procedural 3D modeling, mechanical exploration, engine visualization, performance analysis, and simulation into one comprehensive native Android experience.
